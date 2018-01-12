@@ -1,0 +1,36 @@
+The code was developed in Visual Studio 2010, so it the .sln file should open up and build fine in at least Visual Studio 2010 and Visual Studio 2012. One of the open source projects that our projects uses has a problem with its Debug binaries, so our project should be built in Release mode for best results.
+
+*** Our Application's Menu Items ***
+
+Image > Open Source:
+   Opens the source image displayed on the left
+
+Image > Open Destination:
+   Opens the destination image displayed on the right
+
+Image > Reset:
+    Returns the two loaded images to the their original state
+
+Selection > Mode:
+    Allows you to choose either rectangle or polygon selection mode
+
+Selection > Auto Select:
+    Selects the eyes and mouth on both images if they are present. The selection will obey the rectangle or polygon selection mode.
+
+Selection > Clear:
+    Removes all current selections
+
+Process > Process Selection:
+    Applies the Poisson "seamless cloning" from the source image to the destination image
+
+
+***  Rectangle Selections ***
+Choose Selection > Mode > Rectangle
+Click, drag, and release on an area of the image on the left
+Move your mouse and click to position the selection on the image on the right
+
+***  Polygon Selections ***
+Choose Selection > Mode > Polygon
+Click, move the mouse, repeat for as many vertices as you want on the image on the left
+Dobule-click to finish the selection for the image ont he left
+Move your mouse and click to position the selection on the image on the right

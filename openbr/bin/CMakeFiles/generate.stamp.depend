@@ -1,0 +1,26 @@
+# CMake generation dependency list for this directory.
+E:/Charles/minimal_checkout/openbr/3rdparty/stasm4.0.0/CMakeLists.txt
+C:/Qt/Qt5.1.1/5.1.1/msvc2010/lib/cmake/Qt5Concurrent/Qt5ConcurrentConfigVersion.cmake
+C:/Qt/Qt5.1.1/5.1.1/msvc2010/lib/cmake/Qt5Concurrent/Qt5ConcurrentConfig.cmake
+C:/Qt/Qt5.1.1/5.1.1/msvc2010/lib/cmake/Qt5Core/Qt5CoreConfigVersion.cmake
+C:/Qt/Qt5.1.1/5.1.1/msvc2010/lib/cmake/Qt5Core/Qt5CoreConfig.cmake
+C:/Qt/Qt5.1.1/5.1.1/msvc2010/lib/cmake/Qt5Gui/Qt5GuiConfigVersion.cmake
+C:/Qt/Qt5.1.1/5.1.1/msvc2010/lib/cmake/Qt5Gui/Qt5GuiConfig.cmake
+C:/Qt/Qt5.1.1/5.1.1/msvc2010/lib/cmake/Qt5Network/Qt5NetworkConfigVersion.cmake
+C:/Qt/Qt5.1.1/5.1.1/msvc2010/lib/cmake/Qt5Network/Qt5NetworkConfig.cmake
+C:/Qt/Qt5.1.1/5.1.1/msvc2010/lib/cmake/Qt5Sql/Qt5SqlConfigVersion.cmake
+C:/Qt/Qt5.1.1/5.1.1/msvc2010/lib/cmake/Qt5Sql/Qt5SqlConfig.cmake
+C:/Qt/Qt5.1.1/5.1.1/msvc2010/lib/cmake/Qt5Svg/Qt5SvgConfigVersion.cmake
+C:/Qt/Qt5.1.1/5.1.1/msvc2010/lib/cmake/Qt5Svg/Qt5SvgConfig.cmake
+C:/Qt/Qt5.1.1/5.1.1/msvc2010/lib/cmake/Qt5Widgets/Qt5WidgetsConfigVersion.cmake
+C:/Qt/Qt5.1.1/5.1.1/msvc2010/lib/cmake/Qt5Widgets/Qt5WidgetsConfig.cmake
+C:/Qt/Qt5.1.1/5.1.1/msvc2010/lib/cmake/Qt5Xml/Qt5XmlConfigVersion.cmake
+C:/Qt/Qt5.1.1/5.1.1/msvc2010/lib/cmake/Qt5Xml/Qt5XmlConfig.cmake
+C:/opencv/opencv_246/build/OpenCVConfig-version.cmake
+C:/opencv/opencv_246/build/OpenCVConfig.cmake
+C:/opencv/opencv_246/build/x86/vc10/lib/OpenCVConfig.cmake
+C:/Program Files (x86)/CMake 2.8/share/cmake-2.8/Modules/CPack.cmake
+C:/Program Files (x86)/CMake 2.8/share/cmake-2.8/Modules/CPackComponent.cmake
+C:/Program Files (x86)/CMake 2.8/share/cmake-2.8/Templates/CPackConfig.cmake.in
+C:/Program Files (x86)/CMake 2.8/share/cmake-2.8/Templates/CPackConfig.cmake.in
+C:/Program Files (x86)/CMake 2.8/share/cmake-2.8/Modules/AutomocInfo.cmake.in
